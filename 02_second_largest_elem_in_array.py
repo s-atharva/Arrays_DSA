@@ -39,4 +39,5 @@ def second_element_reverse_better(arr):
 
 
 my_arr = [1, 2, 3, 4, 5]
+second_element_reverse_brute(my_arr)
 second_element_reverse_better(my_arr)
